@@ -12,6 +12,7 @@ FROM zomato_data
 
 SELECT *
 FROM zomato_data
+
 WHERE Cuisines IS NULL
 
 
